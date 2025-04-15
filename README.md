@@ -1,4 +1,4 @@
-# URL Threat Scanner 🔍
+# URL Threat Analysis 
 
 A lightweight and intuitive Python GUI tool to analyze and detect potentially harmful URLs using the [IPQualityScore](https://www.ipqualityscore.com/) API. This tool helps identify threats like phishing, malware, spam, short links, and more.
 
